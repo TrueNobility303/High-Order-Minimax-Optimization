@@ -4,7 +4,7 @@
 ![](Minimax.jpg)
 
 
-## Breaking News
+## News
 
 * (2025/7) Minimax-AIPE [C2] is accepted by COLT'25 and got **Best Student Paper**!
 * (2025/4) LEN [C1] is accected by ICLR'25 and got **Oral** presentation.
